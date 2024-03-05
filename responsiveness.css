@@ -160,3 +160,15 @@ div#thoughtsFirst, div#thoughtsSecond, div#insightsSecond, div#insightsFirst {
     h3#intro {
         margin: 0em 0 -0.5em;
     }
+    div#heading {
+        padding: 36vh 0;
+    }
+
+    header span {
+        font-size: 1.1em;
+        margin: 0 1em;
+    }
+
+    div#aboutMe, div#thoughts, div#experiences, div#insights {
+        display: block;
+    }
