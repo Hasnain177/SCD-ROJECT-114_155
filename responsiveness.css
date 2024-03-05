@@ -257,3 +257,24 @@ div#thoughtsFirst, div#thoughtsSecond, div#insightsSecond, div#insightsFirst {
     header{
         display: none;
     }
+    h3#intro {
+        font-size: 2em;
+        margin-bottom: -1.5em;
+    }
+
+    h1#head {
+        font-size: 1.6em;
+        letter-spacing: 1em;
+        margin-top: 2em;
+    }
+
+    div#heading {
+        padding: 10vh 7vw;
+    }
+
+    div#aboutMe, div#thoughts, div#experiences, div#insights {
+        /* margin-top: 19em; */
+        display: block;
+        /* height: 80vh; */
+        /* padding-top: 20vh; */
+    }
