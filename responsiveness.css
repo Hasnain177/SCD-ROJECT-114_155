@@ -171,4 +171,15 @@ div#thoughtsFirst, div#thoughtsSecond, div#insightsSecond, div#insightsFirst {
 
     div#aboutMe, div#thoughts, div#experiences, div#insights {
         display: block;
+    }  
+    div#aboutMeFirst, div#thoughtsFirst, div#experiencesFirst, div#insightsFirst {
+        padding-top: 0em;
+    }
+
+    div#thoughts {
+        margin-top: 10em;
+    }
+
+    div#thoughtsFirst, div#thoughtsSecond, div#insightsSecond, div#insightsFirst {
+        margin: 0 ;
     }
