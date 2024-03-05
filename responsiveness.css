@@ -244,3 +244,16 @@ div#thoughtsFirst, div#thoughtsSecond, div#insightsSecond, div#insightsFirst {
         font-size: 0.9em;
     }
 }
+@media screen and (min-width : 360px) and (max-width : 428px){
+    body{
+        overflow-x: hidden;
+        margin: 0 -30vw;
+    }
+    
+    div#smallerScreens {
+        display: block;
+    }
+
+    header{
+        display: none;
+    }
