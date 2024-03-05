@@ -144,3 +144,13 @@ textarea {
     border: solid 0.2em black;
     /* color: whitesmoke; */
 }
+textarea {
+    width: 95%;
+    margin: 1em 0.5em;
+    text-indent: 1em;
+    padding-top: 1em;
+    background-color: #81bcbe;
+    border: none;
+    font-weight: 600;
+    border: solid 0.2em black;
+}
