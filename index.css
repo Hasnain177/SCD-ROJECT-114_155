@@ -63,3 +63,10 @@ div#aboutMe, div#thoughts, div#experiences, div#insights {
 /* div#first {
     width: 145vw;
 } */
+.first p {
+    border: 13px solid lightskyblue;
+    border-radius: 3%;
+    height: 40vh;
+    width: 20vw;
+    margin-left: 6em;
+}
