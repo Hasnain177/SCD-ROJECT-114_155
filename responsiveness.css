@@ -294,3 +294,18 @@ div#thoughtsFirst, div#thoughtsSecond, div#insightsSecond, div#insightsFirst {
         top: 1em;
         left: -3em;
     }
+    .second h1 {
+        font-size: 1.5em;
+    }
+
+    #experiences .second h1 {
+        font-size: 1.2em;
+    }
+
+    div.second {
+        margin: 4em 1em 0 1em;
+    }
+
+    div#thoughtsFirst, div#thoughtsSecond, div#insightsSecond, div#insightsFirst {
+        margin: 10em 1em 0;
+    }
