@@ -204,3 +204,26 @@ div#thoughtsFirst, div#thoughtsSecond, div#insightsSecond, div#insightsFirst {
         line-height: 1.6em;
         text-align: right;
     }
+    div.second{
+        margin: 0;
+    }
+
+    div#experiencesSecond {
+        width: auto ;
+    }
+
+    div#experiences {
+        margin-bottom: 8em;
+    }
+
+    div#insights {
+        margin: 20em 0;
+    }
+
+    div#thoughtsFirst {
+        margin-top: 4em;
+    }
+
+    div#insightsFirst {
+        margin-top: 4.5em;
+    }
