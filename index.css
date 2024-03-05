@@ -115,3 +115,11 @@ div#aboutMeFirst ,div#thoughtsFirst ,div#experiencesFirst, div#insightsFirst {
 div#smallerScreens {
     display: none;
 }
+div#contact {
+    display: none;
+    padding: 3em 15em;
+    background-color: #5f9ea0a8;
+    position: relative;
+    top: -6em;
+    border-radius: 3vw;
+}
