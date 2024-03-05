@@ -309,3 +309,19 @@ div#thoughtsFirst, div#thoughtsSecond, div#insightsSecond, div#insightsFirst {
     div#thoughtsFirst, div#thoughtsSecond, div#insightsSecond, div#insightsFirst {
         margin: 10em 1em 0;
     }
+    div#thoughtsFirst {
+        margin-top: 0em;
+        /* width: 44vw; */
+    }
+
+    div#experiencesFirst {
+        margin-top: 30em;
+    }
+
+    div#experiencesSecond {
+        width: auto;
+    }
+
+    div#insights {
+        margin: 40em 0 ;
+    }
