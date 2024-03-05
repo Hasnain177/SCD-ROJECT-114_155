@@ -39,3 +39,7 @@ h3#intro {
     margin: 0em 0 -1em;
     letter-spacing: 1em;
 }
+h1#head {
+    font-size: 5em;
+    letter-spacing: 1em;
+}
