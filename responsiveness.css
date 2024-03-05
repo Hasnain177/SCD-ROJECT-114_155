@@ -102,4 +102,19 @@
         width: 25vw;
         position: relative;
         left: 18em;
+    } 
+    .first p img {
+        width: 26vw;
+        height: 18vh;
+        top: -3em;
+        left: 1.5em;
+    }
+
+    .second h1 {
+        font-size: 2.6em;
+        letter-spacing: 0.4em;
+    }
+
+    div.second {
+        margin: 0em;
     }
