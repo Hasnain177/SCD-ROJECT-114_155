@@ -73,3 +73,12 @@
         height: 38vh;
         top: -2em;
     }
+    div#insights {
+        padding-bottom: 8em;
+    }
+
+    div#contact {
+        padding: 3em 3em;
+        top: -4em;
+    }
+}
