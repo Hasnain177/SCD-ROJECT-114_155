@@ -341,3 +341,11 @@ div#thoughtsFirst, div#thoughtsSecond, div#insightsSecond, div#insightsFirst {
     #grid input {
         width: 11.3em;
     }
+    button {
+        margin: 3em 8em 0;
+    }
+
+    #contactHeading{
+        display: block;
+    }
+}
