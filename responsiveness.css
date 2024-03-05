@@ -28,4 +28,16 @@
 
     header {
         margin: 3em 0 0 -8.5em;
+    } 
+    div#contact {
+        padding: 3em 7em;
     }
+
+    #grid input {
+        width: 26.5em;
+    }
+
+    button {
+        margin: 3em 24em 0;
+    }
+}
