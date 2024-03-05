@@ -53,3 +53,23 @@
     div#aboutMeFirst, div#thoughtsFirst, div#experiencesFirst, div#insightsFirst {
         margin-top: 8em;
     }
+    div#experiencesSecond {
+        width: 36vw;
+    }
+
+    div#aboutMe, div#thoughts, div#experiences, div#insights {
+        padding-top: 15vh;
+    }
+
+    #experiences .second h1 {
+        font-size: 1.7em;
+    }
+
+    .first p {
+        height: 35vh;
+    }
+
+    .first p img {
+        height: 38vh;
+        top: -2em;
+    }
