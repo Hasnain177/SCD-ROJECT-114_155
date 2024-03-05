@@ -154,3 +154,18 @@ textarea {
     font-weight: 600;
     border: solid 0.2em black;
 }
+button {
+    width: 10em;
+    height: 4em;
+    border-radius: 2em;
+    margin: 3em 22em 0;
+    border: solid 0.2em black;
+}
+
+button:hover{
+    background-color: #81bcbe;
+}
+
+#contactHeading{
+    display: none;
+}
