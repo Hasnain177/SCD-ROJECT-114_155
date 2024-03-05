@@ -278,3 +278,19 @@ div#thoughtsFirst, div#thoughtsSecond, div#insightsSecond, div#insightsFirst {
         /* height: 80vh; */
         /* padding-top: 20vh; */
     }
+    div#aboutMeFirst, div#experiencesFirst, div#insightsFirst {
+        margin-top: -5em;
+        /* width: 44vw; */
+    }
+
+    .first p {
+        height: 20vh;
+        width: 30vw;
+    }
+
+    .first p img {
+        width: 40vw;
+        height: 23vh;
+        top: 1em;
+        left: -3em;
+    }
