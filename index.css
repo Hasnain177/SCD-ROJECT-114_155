@@ -33,3 +33,9 @@ header span {
     margin-left: 3em;
     letter-spacing: 0.2em;
 }
+h3#intro {
+    font-size: 3em;
+    color: #fffff0;
+    margin: 0em 0 -1em;
+    letter-spacing: 1em;
+}
