@@ -21,3 +21,11 @@
     .second h1 {
         font-size: 2.5em;
     }
+    div#aboutMe, div#thoughts, div#experiences, div#insights {
+        height: 100vh;
+        padding: 21vh 0 0 0;
+    }
+
+    header {
+        margin: 3em 0 0 -8.5em;
+    }
