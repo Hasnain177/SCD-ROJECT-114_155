@@ -79,3 +79,14 @@ div.second {
     line-height: 1.6em;
     text-align: justify;
 }
+div#thoughtsFirst, div#thoughtsSecond, div#insightsSecond, div#insightsFirst {
+    margin: 0 6em 0 0em;
+}
+
+div#experiencesSecond {
+    width: 48vw;
+}
+
+div#aboutMeFirst ,div#thoughtsFirst ,div#experiencesFirst, div#insightsFirst {
+    margin-top: 4em;
+}
