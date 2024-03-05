@@ -123,3 +123,24 @@ div#contact {
     top: -6em;
     border-radius: 3vw;
 }
+div#grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-template-rows: repeat(2, 1fr);
+}
+
+textarea {
+    width: 99.3%;
+}
+
+#grid input {
+    margin: 0.4em;
+    width: 25em;
+    height: 3em;
+    text-indent: 1em;
+    background-color: #81bcbe;
+    border: none;
+    font-weight: 600;
+    border: solid 0.2em black;
+    /* color: whitesmoke; */
+}
