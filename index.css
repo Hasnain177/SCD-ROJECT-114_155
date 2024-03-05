@@ -70,3 +70,12 @@ div#aboutMe, div#thoughts, div#experiences, div#insights {
     width: 20vw;
     margin-left: 6em;
 }
+div.second {
+    margin: 0em 0 0 6em;
+}
+
+.second p {
+    font-size: 1.3em;
+    line-height: 1.6em;
+    text-align: justify;
+}
