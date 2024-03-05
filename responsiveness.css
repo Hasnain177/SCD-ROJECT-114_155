@@ -325,3 +325,19 @@ div#thoughtsFirst, div#thoughtsSecond, div#insightsSecond, div#insightsFirst {
     div#insights {
         margin: 40em 0 ;
     }
+    div#insightsSecond {
+        margin-top: 20em;
+    }
+
+    div#insightsFirst {
+        margin-top: 0em;
+    }
+
+    div#contact{
+        display: block;
+        padding: 3em 1em;
+    }
+
+    #grid input {
+        width: 11.3em;
+    }
