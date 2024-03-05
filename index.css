@@ -28,3 +28,8 @@ header {
     box-shadow: 0em 0 1em lightskyblue;
     z-index: 2;
 }
+header span {
+    font-size: 1.3em;
+    margin-left: 3em;
+    letter-spacing: 0.2em;
+}
