@@ -7,3 +7,8 @@ function contactPage(){
 function hideContact(){
     contact.style.display = "none" ;
 }
+function emptyFields(){
+    document.querySelectorAll(".fields").forEach(field => {
+        field.value = "" ;
+    }) ;
+}
