@@ -90,3 +90,16 @@ div#experiencesSecond {
 div#aboutMeFirst ,div#thoughtsFirst ,div#experiencesFirst, div#insightsFirst {
     margin-top: 4em;
 }
+/* div#insights {
+    margin-bottom: 16em;
+} */
+
+.first p img {
+    width: 20vw;
+    height: 45vh;
+    border-radius: 5%;
+    position: relative;
+    top: -4em;
+    left: -2em;
+    box-shadow: 0 0 10em lightskyblue;
+}
