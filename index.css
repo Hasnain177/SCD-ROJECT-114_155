@@ -103,3 +103,15 @@ div#aboutMeFirst ,div#thoughtsFirst ,div#experiencesFirst, div#insightsFirst {
     left: -2em;
     box-shadow: 0 0 10em lightskyblue;
 }
+#header span a {
+    text-decoration: none;
+    color: white;
+}
+
+#header span a:hover{
+    color: lightskyblue;
+}
+
+div#smallerScreens {
+    display: none;
+}
