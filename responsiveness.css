@@ -1,0 +1,13 @@
+@media screen and (min-width : 1200px) and (max-width : 1400px) {
+    header {
+        margin: 3em 0 0 4em;
+    }
+    
+    /* h3#intro {
+        margin: 0em 0 -1em;
+    } */
+    
+    h1#head {
+        font-size: 4.6em;
+    }
+    
