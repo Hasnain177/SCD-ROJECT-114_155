@@ -118,3 +118,14 @@
     div.second {
         margin: 0em;
     }
+    div#thoughtsFirst, div#thoughtsSecond, div#insightsSecond, div#insightsFirst {
+        margin: 0 0.2em 0 0em;
+    }
+
+    div#experiencesSecond {
+        width: 70vw;
+    }
+
+    div#aboutMe, div#thoughts, div#experiences, div#insights {
+        padding: 9.5vh 0;
+    }
