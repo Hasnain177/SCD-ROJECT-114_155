@@ -183,3 +183,24 @@ div#thoughtsFirst, div#thoughtsSecond, div#insightsSecond, div#insightsFirst {
     div#thoughtsFirst, div#thoughtsSecond, div#insightsSecond, div#insightsFirst {
         margin: 0 ;
     }
+    .first p {
+        height: 20vh;
+        width: 30vw;
+    }
+
+    .first p img {
+        width: 30vw;
+        height: 23vh;
+    }
+
+    .second h1 {
+        font-size: 2.4em;
+        text-align: right;
+        margin-right: -0.9em;
+    }
+
+    .second p {
+        font-size: 1.6em;
+        line-height: 1.6em;
+        text-align: right;
+    }
