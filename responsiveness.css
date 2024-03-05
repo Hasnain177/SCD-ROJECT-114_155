@@ -118,7 +118,7 @@
     div.second {
         margin: 0em;
     }
-    div#thoughtsFirst, div#thoughtsSecond, div#insightsSecond, div#insightsFirst {
+div#thoughtsFirst, div#thoughtsSecond, div#insightsSecond, div#insightsFirst {
         margin: 0 0.2em 0 0em;
     }
 
@@ -129,3 +129,21 @@
     div#aboutMe, div#thoughts, div#experiences, div#insights {
         padding: 9.5vh 0;
     }
+    header {
+        font-size: 0.8em;
+        margin-left: -12em;
+        padding-right: 2em;
+    }
+
+    div#contact {
+        padding: 3em 3em;
+    }
+
+    #grid input {
+        width: 17.5em;
+    }
+
+    button {
+        margin: 3em 15em 0;
+    }
+}
