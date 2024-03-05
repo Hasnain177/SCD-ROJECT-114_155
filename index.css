@@ -43,3 +43,23 @@ h1#head {
     font-size: 5em;
     letter-spacing: 1em;
 }
+div#heading {
+    height: 20vh;
+    padding: 30vh 0;
+}
+
+div#aboutMe, div#thoughts, div#experiences, div#insights {
+    /* margin-top: 19em; */
+    display: flex;
+    height: 80vh;
+    padding-top: 20vh;
+}
+
+.second h1 {
+    font-size: 3em;
+    letter-spacing: 1em;
+}
+
+/* div#first {
+    width: 145vw;
+} */
