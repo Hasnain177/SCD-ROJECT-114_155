@@ -1,0 +1,8 @@
+body {
+    padding: 0 8em; 
+    background-image: url('https://i.pinimg.com/236x/0c/28/8e/0c288e04b7824890b740bcf259f1203b.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+    scroll-behavior: smooth;
+}
