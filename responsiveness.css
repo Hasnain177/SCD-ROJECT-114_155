@@ -40,4 +40,16 @@
     button {
         margin: 3em 24em 0;
     }
-}
+} 
+@media screen and (min-width : 1114px) and (max-width : 1199px) {
+    h1#head {
+        font-size: 3.88em;
+    }
+
+    .second h1 {
+        font-size: 2em;
+    }
+
+    div#aboutMeFirst, div#thoughtsFirst, div#experiencesFirst, div#insightsFirst {
+        margin-top: 8em;
+    }
